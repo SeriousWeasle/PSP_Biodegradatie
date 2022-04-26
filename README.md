@@ -57,4 +57,4 @@ Maak zeker dat er niet meerdere programma's tegelijk met de Arduino proberen te 
 In dit geval heeft de Arduino foutieve of incomplete data naar de computer gestuurd. Ontkoppel de Arduino van de computer en koppel deze daarna opnieuw door of de reset-knop op de Arduino in te drukken of de USB-kabel uit de computer te halen en deze er opnieuw in te steken als deze foutmelding doorloopt voor meer dan 9 keer.
 
 # Aanvullende informatie
-Voor informatie over het veranderen van instellingen of uitgebreidere instructies, is [hier] meer informatie te vinden.
+Voor informatie over het veranderen van instellingen of uitgebreidere instructies, is [hier](https://github.com/SeriousWeasle/PSP_Biodegradatie/wiki) meer informatie te vinden.
