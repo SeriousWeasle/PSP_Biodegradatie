@@ -50,7 +50,7 @@ Zoals aangegeven kan de software niet het CSV-bestand updaten. Maak zeker dat de
 #### No Serial devices found, retrying...
 Maak zeker dat de Arduino door middel van een USB-kabel aan de computer vastzit
 
-#### Device on port {op} is busy or failed to communicate
+#### Device on port (poortnaam) is busy or failed to communicate
 Maak zeker dat er niet meerdere programma's tegelijk met de Arduino proberen te communiceren. Hieronder vallen meerdere instanties van deze software of mogelijk de Arduino-software.
 
 #### Failed to parse measurement, retrying...
