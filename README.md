@@ -59,7 +59,7 @@ In dit geval heeft de Arduino foutieve of incomplete data naar de computer gestu
 # Contact
 Contact kan opgenomen worden via de volgende methoden:
 * [De Issues page](https://github.com/SeriousWeasle/PSP_Biodegradatie/issues)
-* [Via e-mail](seriousweasle@gmail.com)
+* [Via e-mail](mailto:seriousweasle@gmail.com)
 
 # Aanvullende informatie
 Voor informatie over het veranderen van instellingen of uitgebreidere instructies, is [hier](https://github.com/SeriousWeasle/PSP_Biodegradatie/wiki) meer informatie te vinden.
